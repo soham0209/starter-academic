@@ -5,35 +5,29 @@ bio: ""
 interests:
   - Topological Data Analysis
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  - display:
+      header: false
+    link: https://github.com/soham0209
+    icon_pack: ai
+    icon: fab
+  - display:
+      header: false
+    link: https://www.linkedin.com/in/soham-mukherjee-168363128/
+    icon_pack: ai
+    icon: fab
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Purdue University
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD Student
+      institution: Purdue University
+      year: ""
+    - course: BETCE
+      institution: Jadavpur University
+      year: 2017
+    - institution: The Ohio State University
+      year: ""
+      course: PhD Student
 email: ""
 superuser: true
 highlight_name: false

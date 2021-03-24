@@ -22,16 +22,16 @@ education:
     - course: PhD Student
       institution: Purdue University
       year: ""
-    - course: BETCE
-      institution: Jadavpur University
-      year: 2017
     - institution: The Ohio State University
       year: ""
       course: PhD Student
+    - course: BE in Electronics and Tele-Communication Engineering
+      institution: Jadavpur University
+      year: 2017
 superuser: true
 highlight_name: false
 title: Soham Mukherjee
-email: ""
+email: mukher26@purdue.edu
 ---
  Hii, I am a Graduate Student of Purdue University. I am currently doing my PhD in Computer Science . I recently moved to Purdue (Fall 2020) from The Ohio State University along with my advisor <a href="https://www.cs.purdue.edu/homes/tamaldey/" target="_blank">Prof. Tamal Krishna Dey</a>. I am in TGDA group of CSE dept. I am from Kolkata,the City of Joy. It is in the eastern part of India.</p>
 <p> Apart from doing nerdy stuff(Nerds call it research),I sometimes pick up my good old camera to click some photos.Some of my photos.

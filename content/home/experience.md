@@ -22,24 +22,31 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Graduate Research Assistant
+    company: Purdue University
+    company_url: 'https://www.purdue.edu'
+    location: West Lafayette, IN
+    date_start: '2020-08-11'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Research
+        * Developing Algorithms
         
-  - title: Professor
-    company: University X
+  - title: Graduate Research Assistant
+    company: The Ohio State University
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Columbus, OH
+    date_start: '2017-08-21'
+    date_end: '2020-08-10'
+    description: Moved to Purdue with my advisor.
+
+  - title: Undergraduate Researcher
+    company: Jadavpur University
+    company_url: ''
+    location: Calcutta, India
+    date_start: '2013-08-17'
+    date_end: '2017-07-31'
+    description: FPGA implementation of stochastics circuits under Dr. Mrinal Kanti Naskar
 ---

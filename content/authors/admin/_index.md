@@ -1,37 +1,55 @@
 ---
 role: Graduate Research Assisstant
-avatar_filename: soham.jpg
-bio: ""
+avatar_filename: avatar.jpg
+bio: "PhD student, CTDA Group"
 interests:
-  - Topological Data Analysis
+  - Topological Data Analysis (TDA)
+  - Applications of TDA in ML & Deep Learning
+  - ML Applications
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - display:
-      header: false
-    link: https://github.com/soham0209
-    icon_pack: ai
-    icon: fab
-  - display:
-      header: false
-    link: https://www.linkedin.com/in/soham-mukherjee-168363128/
-    icon_pack: ai
-    icon: fab
+- icon: envelope
+  icon_pack: fas
+  link: mailto:mukher26@purdue.edu
+- icon: google-scholar 
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=mQgy3wkAAAAJ&hl=en
+- icon: github
+  icon_pack: fab
+  link: https://github.com/soham0209
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/soham-mukherjee-168363128/
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+- icon: cv
+  icon_pack: ai
+  link: media/Simple_CV.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
 organizations:
   - name: Purdue University
 education:
   courses:
     - course: PhD Student
-      institution: Purdue University
-      year: ""
+      institution: Purdue University, West Lafayette, IN
+      year: "2020 - Present"
+    - institution: The Ohio State University
+      year: "2017 - 2020"
+      course: PhD Student
     - course: BETCE
       institution: Jadavpur University
-      year: 2017
-    - institution: The Ohio State University
-      year: ""
-      course: PhD Student
+      year: 2013 - 2017
 superuser: true
 highlight_name: false
 title: Soham Mukherjee
-email: ""
+email: "mukher26@purdue.edu"
 ---
  Hii, I am a Graduate Student of Purdue University. I am currently doing my PhD in Computer Science . I recently moved to Purdue (Fall 2020) from The Ohio State University along with my advisor <a href="https://www.cs.purdue.edu/homes/tamaldey/" target="_blank">Prof. Tamal Krishna Dey</a>. I am in TGDA group of CSE dept. I am from Kolkata,the City of Joy. It is in the eastern part of India.</p>
-<p> Apart from doing nerdy stuff(Nerds call it research),I sometimes pick up my good old camera to click some photos.Some of my photos.
+<p> Apart from doing nerdy stuff(Nerds call it research),I sometimes pick up my good old camera to click some photos.

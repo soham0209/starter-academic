@@ -1,8 +1,8 @@
 ---
-title: Example Talk
+# title: Example Talk
 
-event: Wowchemy Conference
-event_url: https://example.org
+# event: Wowchemy Conference
+# event_url: https://example.org
 
 location: Wowchemy HQ
 address:

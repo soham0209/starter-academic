@@ -24,28 +24,20 @@ title: 'Accomplish&shy;ments'
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+- certificate_url: https://user.informatik.uni-goettingen.de/~sensorlab/Research.php#sp
+  date_end: "2016-08-01"
+  date_start: "2016-05-01"
+  description: "Evaluation of Waspmote Cryptography"
+  organization: Georg-August Universit&auml;t G&ouml;ttingen
+  organization_url: https://user.informatik.uni-goettingen.de/~sensorlab/index.php
+  title: DAAD Summer Research Intern
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url: ""
   date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
-  url: ""
+  date_start: "2021-05-12"
+  description: 
+  organization: Physna inc.
+  organization_url: https://www.physna.com
+  title: Summer intern in Physna inc.
+  url: https://physna.com
 ---

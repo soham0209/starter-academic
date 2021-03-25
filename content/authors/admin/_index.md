@@ -38,17 +38,11 @@ organizations:
 education:
   courses:
     - course: PhD Student
-<<<<<<< HEAD
       institution: Purdue University, West Lafayette, IN
       year: "2020 - Present"
-=======
-      institution: Purdue University
-      year: ""
->>>>>>> 81922e7c3ddb41e183310c57aabd11108a030757
     - institution: The Ohio State University
       year: "2017 - 2020"
       course: PhD Student
-<<<<<<< HEAD
     - course: BETCE
       institution: Jadavpur University
       year: 2013 - 2017
@@ -56,15 +50,6 @@ superuser: true
 highlight_name: false
 title: Soham Mukherjee
 email: "mukher26@purdue.edu"
-=======
-    - course: BE in Electronics and Tele-Communication Engineering
-      institution: Jadavpur University
-      year: 2017
-superuser: true
-highlight_name: false
-title: Soham Mukherjee
-email: mukher26@purdue.edu
->>>>>>> 81922e7c3ddb41e183310c57aabd11108a030757
 ---
  Hii, I am a Graduate Student of Purdue University. I am currently doing my PhD in Computer Science . I recently moved to Purdue (Fall 2020) from The Ohio State University along with my advisor <a href="https://www.cs.purdue.edu/homes/tamaldey/" target="_blank">Prof. Tamal Krishna Dey</a>. I am in TGDA group of CSE dept. I am from Kolkata,the City of Joy. It is in the eastern part of India.</p>
 <p> Apart from doing nerdy stuff(Nerds call it research),I sometimes pick up my good old camera to click some photos.

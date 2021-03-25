@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    image: /assets/media/soham.jpg
+    image: ""
 ---

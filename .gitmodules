@@ -1,0 +1,8 @@
+[submodule "soham0209.github.io"]
+	path = soham0209.github.io
+	url = https://github.com/soham0209/soham0209.github.io
+	branch = origin/master
+[submodule "public"]
+	path = public
+	url = https://github.com/soham0209/soham0209.github.io.git
+	branch = master

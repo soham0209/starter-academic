@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Soham # Website name
-baseurl: 'https://soham0209.github.io' # Website URL
+baseurl: 'https://www.cs.purdue.edu/homes/mukher26/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
@@ -43,7 +43,7 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
+  home: [HTML, RSS, JSON, WebAppManifest, redirects, headers]
   section: [HTML, RSS]
 markup:
   defaultMarkdownHandler: goldmark
